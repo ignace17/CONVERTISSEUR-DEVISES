@@ -1,4 +1,4 @@
-# 💰 Convertisseur de Devises - Projet n°3
+# 💰 Convertisseur de Devises 
 
 Un espace web dynamique qui permet de convertir des monnaies internationales en temps réel. Ce projet met en pratique la récupération de données financières via une API externe.
 
@@ -16,3 +16,4 @@ Un espace web dynamique qui permet de convertir des monnaies internationales en 
 1. Cloner le dépôt.
 2. Ouvrir `index.html` avec Live Server.
 3. Ajouter sa propre clé API dans `script.js`.
+
